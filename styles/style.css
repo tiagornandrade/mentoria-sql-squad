@@ -79,7 +79,7 @@ body {
   width: 90%;
   max-width: 820px;
   height: 60vh;
-  padding-top: 80px;
+  padding-top: 10px;
   justify-content: center;
   align-items: center;
 }
@@ -87,36 +87,22 @@ body {
 .faq-item {
   text-align: left;
   margin-bottom: 20px;
+  border-radius: 15px;
+  background-color: #9898c1;
 }
 
-.faq-item h3 {
+.faq-item h2 {
   font-size: 20px;
   margin: 0;
   padding: 10px;
-  cursor: pointer;
+  color: #000;
 }
 
-.faq-item p {
-  display: none;
-  max-width: 800px;
+.faq-item h3 {
   margin: 0 auto;
   margin-left: 0;
   padding: 10px;
-}
-
-.faq-item.active p {
-  display: block;
-}
-
-.faq-item h3::before {
-  content: '\25B6';
-  display: inline-block;
-  margin-right: 5px;
-  transition: transform 0.3s ease;
-}
-
-.faq-item.active h3::before {
-  transform: rotate(90deg);
+  color:#333
 }
 
 .contact-form {
@@ -155,9 +141,28 @@ body {
   padding: 10px 20px;
   border-radius: 5px;
   cursor: pointer;
+  width: 104%;
   transition: background-color 0.3s ease;
 }
 
 .contact-form input[type="submit"]:hover {
   background-color: #9898c1;
+}
+
+.methodology-section {
+  margin-bottom: 100px;
+  background-color: #9898c1;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+.methodology-section p {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #000;
+}
+
+.methodology-section img {
+  max-width: 100%;
+  margin-bottom: 20px;
 }
