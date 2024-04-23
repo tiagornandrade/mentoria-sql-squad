@@ -6,14 +6,14 @@ body {
   height: 100vh;
   text-align: center;
   background-color: #1d1d1d;
-  color: #9898c1;
+  color: white;
   margin: 0;
 }
 
 .top-bar {
   width: 100%;
   background-color: #1d1d1d;
-  color: #9898c1;
+  color: white;
   padding: 20px 0;
   position: fixed;
   top: 0;
@@ -84,11 +84,25 @@ body {
   align-items: center;
 }
 
+.title h1 {
+  font-size: xx-large;
+  color: rgb(163, 83, 202);
+}
+
+.title h3 {
+  font-size: x-large;
+}
+
+.title h4 {
+  font-size: xx-large;
+  color: rgb(163, 83, 202);
+}
+
 .faq-item {
   text-align: left;
-  margin-bottom: 20px;
+  margin-bottom: 50px;
   border-radius: 15px;
-  background-color: #9898c1;
+  background-color: #d2d2f8;
 }
 
 .faq-item h2 {
@@ -151,7 +165,7 @@ body {
 
 .methodology-section {
   margin-bottom: 100px;
-  background-color: #9898c1;
+  background-color: #d2d2f8;
   border-radius: 15px;
   padding: 20px;
 }
