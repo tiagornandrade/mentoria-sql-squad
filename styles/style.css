@@ -102,7 +102,7 @@ body {
   text-align: left;
   margin-bottom: 50px;
   border-radius: 15px;
-  background-color: #d2d2f8;
+  background-color: rgb(62, 60, 60);
 }
 
 .faq-item h2 {
@@ -116,7 +116,7 @@ body {
   margin: 0 auto;
   margin-left: 0;
   padding: 10px;
-  color:#333
+  color: white
 }
 
 .contact-form {
@@ -165,7 +165,7 @@ body {
 
 .methodology-section {
   margin-bottom: 100px;
-  background-color: #d2d2f8;
+  background-color: rgb(62, 60, 60);
   border-radius: 15px;
   padding: 20px;
 }
@@ -173,7 +173,7 @@ body {
 .methodology-section p {
   font-size: 28px;
   margin-bottom: 20px;
-  color: #000;
+  color: white;
 }
 
 .methodology-section img {
