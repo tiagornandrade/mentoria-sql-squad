@@ -63,10 +63,10 @@ body {
 }
 
 .learn-more-btn {
-  margin-top: 20px;
+  margin-top: 10px;
   color: white;
   background-color: darkorchid;
-  padding: 10px 20px;
+  padding: 20px 60px;
   border-radius: 5px;
   text-decoration: none;
 }
