@@ -8,6 +8,3 @@
 - Tratamento de valores nulos e duplicados.
 - Ajuste de formatação (datas, textos).
 - Técnicas de normalização de dados.
-
-## Exercício Prático
-- Coleta e preparação de um conjunto de dados com problemas comuns (nulos, duplicados).
