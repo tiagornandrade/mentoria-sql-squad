@@ -47,10 +47,6 @@ Embora muitas vezes subestimado, o Excel é uma ferramenta poderosa para anális
 
 ---
 
-Aqui está a seção **3. Introdução à Lógica de Consultas** atualizada, com a lógica separada entre SQL e Pandas:
-
----
-
 ## 3. Introdução à Lógica de Consultas com SQL e Pandas
 
 Tanto SQL quanto a biblioteca Pandas do Python são ferramentas essenciais para manipulação e extração de dados. Neste tópico, vamos introduzir a lógica de consultas em ambas as ferramentas, mostrando como realizar operações básicas em cada uma delas.
@@ -146,9 +142,6 @@ df[df['curso'] == 'Matemática'].groupby('curso')['idade'].mean()
 
 Para praticar, você pode trabalhar com pequenos datasets, aplicando tanto consultas em SQL quanto operações em Pandas para se familiarizar com a lógica e sintaxe de ambas as ferramentas. Experimente realizar seleções, filtragens e agregações para entender melhor o funcionamento de cada abordagem.
 
----
-
-Essa introdução fornece uma base para a lógica de consultas em SQL e Pandas, preparando você para lidar com dados em diferentes contextos e ambientes.
 ---
 
 Esse módulo é o primeiro passo para construir uma base sólida em Análise de Dados. Aprofunde-se nos conceitos e pratique bastante para ganhar confiança no uso das ferramentas e linguagens apresentadas!
