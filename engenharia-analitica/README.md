@@ -16,7 +16,7 @@ Os módulos incluem:
 2. **[Modelagem de Dados Analíticos](Módulo-2-Modelagem-Analítica/)**: Estruturação de dados para BI e dashboards.
 3. **[Otimização de Consultas e Performance](Módulo-3-Otimização-Consultas)**: Técnicas de otimização de queries.
 4. **[Construção de Dashboards e KPIs](Módulo-4-Dashboards-KPIs)**: Criação de visualizações e indicadores.
-5. **Data Governance e Segurança**: Boas práticas de governança e compliance.
+5. **[Data Governance e Segurança](Módulo-5-Governança-Segurança)**: Boas práticas de governança e compliance.
 
 ## Como Utilizar Este Repositório
 
