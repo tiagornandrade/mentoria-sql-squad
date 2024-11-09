@@ -12,7 +12,7 @@ Capacitar você a projetar e otimizar dados analíticos para suporte a decisões
 ## Estrutura da Mentoria
 
 Os módulos incluem:
-1. **[Introdução à Engenharia Analítica](modulo-1-introducao/)**: Conceitos e arquitetura de sistemas analíticos.
+1. **[Introdução à Engenharia Analítica](Módulo-1-introdução/)**: Conceitos e arquitetura de sistemas analíticos.
 2. **Modelagem de Dados Analíticos**: Estruturação de dados para BI e dashboards.
 3. **Otimização de Consultas e Performance**: Técnicas de otimização de queries.
 4. **Construção de Dashboards e KPIs**: Criação de visualizações e indicadores.
