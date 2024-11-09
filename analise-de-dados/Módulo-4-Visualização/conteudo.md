@@ -7,6 +7,3 @@
 ## Ferramentas de Visualização
 - Introdução ao Power BI e Tableau.
 - Visualizações básicas com Matplotlib e Seaborn em Python.
-
-## Exercício Prático
-- Criação de visualizações para representar insights de um conjunto de dados.
