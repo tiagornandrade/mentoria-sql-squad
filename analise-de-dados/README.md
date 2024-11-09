@@ -16,7 +16,7 @@ A mentoria está organizada em módulos progressivos:
 2. **[Coleta e Limpeza de Dados](Módulo-2-Coleta-Limpeza)**: Processos e boas práticas para preparação de dados.
 3. **[Análise Exploratória de Dados (EDA)](Módulo-3-EDA)**: Técnicas de exploração e estatísticas descritivas.
 4. **[Visualização de Dados](Módulo-4-Visualização)**: Criação de gráficos e dashboards com propósito.
-5. **Storytelling com Dados**: Construção de narrativas visuais para apresentação de insights.
+5. **[Storytelling com Dados](Módulo-5-Storytelling)**: Construção de narrativas visuais para apresentação de insights.
 
 ## Como Utilizar Este Repositório
 
