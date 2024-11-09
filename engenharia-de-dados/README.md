@@ -13,7 +13,7 @@ Desenvolver habilidades para construir pipelines de dados escaláveis e confiáv
 
 A mentoria é dividida nos seguintes módulos:
 1. **[Fundamentos de Engenharia de Dados](Módulo-1-Fundamentos)**: Conceitos de arquitetura e pipelines.
-2. **Ingestão e Armazenamento de Dados**: Processos de coleta e armazenamento.
+2. **[Ingestão e Armazenamento de Dados](Módulo-2-Ingestão-Armazenamento)**: Processos de coleta e armazenamento.
 3. **Processamento e Transformação de Dados**: Ferramentas e técnicas para ETL e ELT.
 4. **Modelagem e Armazenamento de Dados**: Criação de modelos escaláveis.
 5. **Monitoramento e Qualidade de Dados**: Técnicas de monitoramento e garantia de qualidade.
