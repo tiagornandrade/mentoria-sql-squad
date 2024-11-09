@@ -15,7 +15,7 @@ Os módulos incluem:
 1. **[Introdução à Engenharia Analítica](Módulo-1-Introdução/)**: Conceitos e arquitetura de sistemas analíticos.
 2. **[Modelagem de Dados Analíticos](Módulo-2-Modelagem-Analítica/)**: Estruturação de dados para BI e dashboards.
 3. **[Otimização de Consultas e Performance](Módulo-3-Otimização-Consultas)**: Técnicas de otimização de queries.
-4. **Construção de Dashboards e KPIs**: Criação de visualizações e indicadores.
+4. **[Construção de Dashboards e KPIs](Módulo-4-Dashboards-KPIs)**: Criação de visualizações e indicadores.
 5. **Data Governance e Segurança**: Boas práticas de governança e compliance.
 
 ## Como Utilizar Este Repositório
