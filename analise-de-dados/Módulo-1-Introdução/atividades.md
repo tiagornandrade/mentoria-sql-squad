@@ -1,7 +1,3 @@
-Aqui está o conteúdo para o arquivo `atividades.md`, que detalha as atividades práticas em SQL e Pandas e como executá-las.
-
----
-
 # Atividades Práticas
 
 Este módulo inclui duas atividades práticas: uma utilizando SQL em um banco de dados PostgreSQL e outra com a biblioteca Pandas em Python, usando Jupyter Notebook. Abaixo estão as instruções detalhadas para configurar e executar cada atividade.
