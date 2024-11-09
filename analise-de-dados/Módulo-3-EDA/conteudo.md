@@ -7,6 +7,3 @@
 ## Identificação de Outliers e Padrões
 - Métodos para detecção de outliers.
 - Análise de correlação entre variáveis.
-
-## Exercício Prático
-- Análise exploratória de um conjunto de dados com foco em identificar insights iniciais.
