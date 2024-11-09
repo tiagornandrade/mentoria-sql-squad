@@ -1,32 +1,32 @@
-# Mentoria de Engenharia Analítica
+# Mentoria de Engenharia de Dados
 
-Bem-vindo à mentoria em Engenharia Analítica! Neste repositório, você aprenderá a modelar dados para análise, otimizar consultas e desenvolver dashboards e KPIs, utilizando práticas de governança e segurança de dados.
+Este repositório faz parte da mentoria em Engenharia de Dados, onde você aprenderá a construir e gerenciar pipelines de dados, desde a ingestão até a transformação e armazenamento. Vamos cobrir desde fundamentos de arquitetura até práticas avançadas de monitoramento e qualidade.
 
 ## Objetivo da Mentoria
 
-Capacitar você a projetar e otimizar dados analíticos para suporte a decisões estratégicas e operacionais, com foco em:
-- Modelagem de dados analíticos
-- Otimização de consultas para BI
-- Construção de dashboards e governança de dados
+Desenvolver habilidades para construir pipelines de dados escaláveis e confiáveis, focando em:
+- Ingestão e transformação de dados em larga escala
+- Modelagem e armazenamento de dados para análise
+- Monitoramento e garantia de qualidade dos pipelines
 
 ## Estrutura da Mentoria
 
-Os módulos incluem:
-1. **Introdução à Engenharia Analítica**: Conceitos e arquitetura de sistemas analíticos.
-2. **Modelagem de Dados Analíticos**: Estruturação de dados para BI e dashboards.
-3. **Otimização de Consultas e Performance**: Técnicas de otimização de queries.
-4. **Construção de Dashboards e KPIs**: Criação de visualizações e indicadores.
-5. **Data Governance e Segurança**: Boas práticas de governança e compliance.
+A mentoria é dividida nos seguintes módulos:
+1. **Fundamentos de Engenharia de Dados**: Conceitos de arquitetura e pipelines.
+2. **Ingestão e Armazenamento de Dados**: Processos de coleta e armazenamento.
+3. **Processamento e Transformação de Dados**: Ferramentas e técnicas para ETL e ELT.
+4. **Modelagem e Armazenamento de Dados**: Criação de modelos escaláveis.
+5. **Monitoramento e Qualidade de Dados**: Técnicas de monitoramento e garantia de qualidade.
 
 ## Como Utilizar Este Repositório
 
-Cada módulo oferece:
-- **conteúdo.md**: Materiais de estudo detalhados.
-- **atividades.md**: Exercícios práticos.
-- **projetos/**: Um projeto final para aplicar o conteúdo.
+Dentro de cada módulo, você encontrará:
+- **conteúdo.md**: Material teórico e guias detalhados.
+- **atividades.md**: Exercícios e desafios práticos.
+- **projetos/**: Um projeto final para consolidar seu aprendizado.
 
 ## Projeto Final
 
-O projeto final propõe o desenvolvimento de um conjunto de dashboards e KPIs otimizados, com aplicação de governança e segurança de dados. Detalhes completos estão na pasta `projetos/`.
+O projeto final consiste na criação de um pipeline de dados end-to-end, integrando ingestão, transformação e monitoramento. Detalhes do projeto estão na pasta `projetos/`.
 
-Vamos juntos construir uma base sólida em Engenharia Analítica!
+Prepare-se para uma jornada completa pela Engenharia de Dados!
