@@ -1,6 +1,10 @@
+Aqui está o README ajustado para incluir a **Engenharia Analítica** no **Squad Forge Hub**:
+
+---
+
 # Squad Forge Hub
 
-**Bem-vindo ao Squad Forge Hub!** Este é o seu ponto de partida para desenvolver habilidades essenciais em **análise de dados** e **engenharia de dados**. Aqui, você encontrará conteúdos organizados em dois principais módulos com recursos de aprendizado detalhados e progressivos, incluindo documentação, vídeos educativos e atividades práticas.
+**Bem-vindo ao Squad Forge Hub!** Este é o seu ponto de partida para desenvolver habilidades essenciais em **análise de dados**, **engenharia de dados** e **engenharia analítica**. Aqui, você encontrará conteúdos organizados em três módulos principais, com recursos de aprendizado detalhados e progressivos, incluindo documentação, vídeos educativos e atividades práticas.
 
 ## 📚 Visão Geral
 
@@ -8,13 +12,16 @@ O **Squad Forge Hub** foi criado para oferecer um ambiente colaborativo e acess�
 
 ### Estrutura do Repositório
 
-Este repositório é dividido em duas categorias principais:
+Este repositório é dividido em três categorias principais:
 
 1. **[Análise de Dados](analise-de-dados/)**  
    Conceitos fundamentais e habilidades práticas para análise de dados, com tópicos como Python para Análise, Estatística e Visualização de Dados.
 
 2. **[Engenharia de Dados](engenharia-de-dados/)**  
    Fundamentos de ETL, arquiteturas de dados, pipelines e Big Data, focando nas competências essenciais para construir e manter sistemas de dados escaláveis.
+
+3. **[Engenharia Analítica](engenharia-analitica/)**  
+   Focado em modelagem de dados para análise, otimização de consultas, construção de dashboards e implementação de KPIs, além de práticas de governança e segurança de dados.
 
 ### Organização Interna
 
@@ -33,14 +40,14 @@ Para explorar o conteúdo:
    ```bash
    git clone https://github.com/squad-forge-hub/mentorias.git
    ```
-2. Navegue para o diretório desejado ([analise-de-dados](analise-de-dados/) ou [engenharia-de-dados](engenharia-de-dados/)) e explore o material disponível.
+2. Navegue para o diretório desejado ([analise-de-dados](analise-de-dados/), [engenharia-de-dados](engenharia-de-dados/), ou [engenharia-analitica](engenharia-analitica/)) e explore o material disponível.
 
 ## 🎯 Público-Alvo
 
 Este repositório é destinado a:
 
 - Iniciantes que desejam entrar no campo de dados.
-- Profissionais que buscam aprofundar seus conhecimentos e habilidades em análise e engenharia de dados.
+- Profissionais que buscam aprofundar seus conhecimentos e habilidades em análise, engenharia de dados e engenharia analítica.
 - Mentores e educadores que querem uma fonte organizada para apoiar o desenvolvimento de outros profissionais.
 
 ## 📂 Estrutura
@@ -54,7 +61,12 @@ Squad Forge Hub/
 │   ├── videos/
 │   ├── atividades-praticas/
 │   └── recursos-adicionais/
-└── engenharia-de-dados/
+├── engenharia-de-dados/
+│   ├── conteudos-escritos/
+│   ├── videos/
+│   ├── atividades-praticas/
+│   └── recursos-adicionais/
+└── engenharia-analitica/
     ├── conteudos-escritos/
     ├── videos/
     ├── atividades-praticas/
@@ -67,4 +79,4 @@ Quer contribuir? Sinta-se à vontade para abrir uma *issue* com sugestões, corr
 
 ## 📬 Contato
 
-Para dúvidas ou feedback, entre em contato através do [LinkedIn](https://www.linkedin.com/in/tiagonavarro) ou abra uma *issue* neste repositório.
+Para dúvidas ou feedback, entre em contato através do [LinkedIn](https://www.linkedin.com/in/tiagonavarro) ou abra uma *issue* neste repositório. 
