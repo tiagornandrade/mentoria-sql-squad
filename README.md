@@ -1,8 +1,4 @@
-Aqui está o README ajustado para incluir a **Engenharia Analítica** no **Squad Forge Hub**:
-
----
-
-# Squad Forge Hub
+Aqui está o # Squad Forge Hub
 
 **Bem-vindo ao Squad Forge Hub!** Este é o seu ponto de partida para desenvolver habilidades essenciais em **análise de dados**, **engenharia de dados** e **engenharia analítica**. Aqui, você encontrará conteúdos organizados em três módulos principais, com recursos de aprendizado detalhados e progressivos, incluindo documentação, vídeos educativos e atividades práticas.
 
