@@ -1,0 +1,1 @@
+- Projeto de modelagem de um banco de dados analítico com tabelas de fato e dimensões.
